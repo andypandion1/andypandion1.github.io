@@ -484,3 +484,7 @@ img {
     width: 450px;
   }
 }
+
+.contact__button {
+  width: 150px;
+}

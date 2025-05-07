@@ -1,2 +1,2 @@
-# portfolio
-All my projects!
+# My Portfolio
+Find all my projects here!
